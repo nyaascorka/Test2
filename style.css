@@ -1,7 +1,7 @@
 :root {
     color-scheme: light dark;
     color: /* light-dark( */
-        rgb(255,0,0)/* ,
+        rgb(var(--r),0,0)/* ,
         rgb(255-var(--r),255-var(--g),255-var(--b))
     ) */;
     font-size: 16px;
