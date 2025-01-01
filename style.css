@@ -2,5 +2,6 @@
     color: light-dark(
         rgb(var(--r),var(--g),var(--b)),
         rgb(255-var(--r),255-var(--g),255-var(--b))
-    )
+    );
+    font-size: 16px;
 }
